@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Developer in training here, this is a work in progress.
+
 <!--
 **SergeitZ/SergeitZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
